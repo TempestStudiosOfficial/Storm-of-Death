@@ -42,3 +42,75 @@
 [05:19:16] [Server thread/INFO]: Joshua124_ issued server command: /give Joshua124_ minecraft:ancient_debris
 [05:19:16] [Server thread/INFO]: Joshua124_ has made the advancement [Hidden in the Depths]
 [05:19:16] [Server thread/INFO]: [Joshua124_: Gave 1 [Ancient Debris] to Joshua124_]
+[05:21:31] [Server thread/INFO]: Joshua124_ issued server command: /reload
+[05:21:31] [Server thread/INFO]: Joshua124_: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[05:21:34] [Server thread/INFO]: Joshua124_ issued server command: /reload confirm
+[05:21:34] [Server thread/INFO]: Joshua124_: Please note that this command is not supported and may cause issues when using some plugins.
+[05:21:34] [Server thread/INFO]: Joshua124_: If you encounter any issues please use the /stop command to restart your server.
+[05:21:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:21:35] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:21:35] [Server thread/INFO]: Loaded 7 recipes
+[05:21:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:21:35] [Server thread/INFO]: Joshua124_: Reload complete.
+[05:21:35] [Server thread/INFO]: Timings Reset
+[05:21:37] [Server thread/INFO]: Joshua124_ issued server command: /pl
+[05:22:45] [Server thread/INFO]: Joshua124_ issued server command: /pl
+[05:22:46] [Server thread/INFO]: Joshua124_ issued server command: /reload
+[05:22:46] [Server thread/INFO]: Joshua124_: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[05:22:48] [Server thread/INFO]: Joshua124_ issued server command: /reload confirm
+[05:22:48] [Server thread/INFO]: Joshua124_: Please note that this command is not supported and may cause issues when using some plugins.
+[05:22:48] [Server thread/INFO]: Joshua124_: If you encounter any issues please use the /stop command to restart your server.
+[05:22:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:22:48] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:22:48] [Server thread/INFO]: Loaded 7 recipes
+[05:22:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:22:49] [Server thread/INFO]: Joshua124_: Reload complete.
+[05:22:49] [Server thread/INFO]: Timings Reset
+[05:22:49] [Server thread/INFO]: Joshua124_ issued server command: /reload
+[05:22:49] [Server thread/INFO]: Joshua124_: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[05:22:52] [Server thread/INFO]: Joshua124_ issued server command: /pl
+[05:24:19] [Server thread/INFO]: Joshua124_ issued server command: /fps
+[05:24:30] [Server thread/INFO]: Joshua124_ has made the advancement [Monster Hunter]
+[05:24:38] [Server thread/INFO]: Joshua124_ issued server command: /gamemode survival
+[05:24:38] [Server thread/INFO]: [Joshua124_: Set own game mode to Survival Mode]
+[05:24:54] [Server thread/INFO]: Joshua124_ issued server command: /effect give @a minecraft:hunger
+[05:24:54] [Server thread/INFO]: [Joshua124_: Applied effect Hunger to Joshua124_]
+[05:25:07] [Server thread/INFO]: Joshua124_ issued server command: /difficulty hard
+[05:25:07] [Server thread/INFO]: [Joshua124_: The difficulty has been set to Hard]
+[05:25:20] [Server thread/INFO]: Joshua124_ issued server command: /effect give @a minecraft:hunger 10 10
+[05:25:20] [Server thread/INFO]: [Joshua124_: Applied effect Hunger to Joshua124_]
+[05:25:29] [Server thread/INFO]: Joshua124_ issued server command: /effect give @a minecraft:hunger 10 50
+[05:25:29] [Server thread/INFO]: [Joshua124_: Applied effect Hunger to Joshua124_]
+[05:25:36] [Server thread/INFO]: Joshua124_ issued server command: /gamemode spectator
+[05:25:36] [Server thread/INFO]: [Joshua124_: Set own game mode to Spectator Mode]
+[05:25:36] [Server thread/INFO]: Joshua124_ issued server command: /gamemode creative
+[05:25:36] [Server thread/INFO]: [Joshua124_: Set own game mode to Creative Mode]
+[05:25:53] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[05:25:59] [Server thread/INFO]: [STDOUT] [org.spigotmc.RestartCommand] Startup script './start.sh' does not exist! Stopping server.
+[05:25:59] [Server thread/INFO]: Joshua124_ lost connection: ¡Reiniciando!
+[05:25:59] [Server thread/INFO]: Joshua124_ left the game
+[05:25:59] [Server thread/INFO]: Stopping server
+[05:25:59] [Server thread/INFO]: Saving players
+[05:26:00] [Server thread/INFO]: Saving worlds
+[05:26:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:26:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[05:26:00] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[05:26:00] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[05:26:00] [Server thread/INFO]: [ChunkHolderManager] Saved 1737 block chunks, 227 entity chunks, 0 poi chunks in world 'world' in 0.87s
+[05:26:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:26:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:26:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[05:26:00] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[05:26:00] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[05:26:01] [Server thread/INFO]: [ChunkHolderManager] Saved 1499 block chunks, 22 entity chunks, 0 poi chunks in world 'world_nether' in 0.48s
+[05:26:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:26:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:26:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[05:26:01] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[05:26:01] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[05:26:01] [Server thread/INFO]: [ChunkHolderManager] Saved 1506 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.37s
+[05:26:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:26:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:26:02] [Server thread/INFO]: Flushing Chunk IO
+[05:26:02] [Server thread/INFO]: Closing Thread Pool
+[05:26:02] [Server thread/INFO]: Closing Server
